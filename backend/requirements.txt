@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+pinecone
+cohere
+google-generativeai
+openai
+langchain-text-splitters
+tiktoken
+pypdf
