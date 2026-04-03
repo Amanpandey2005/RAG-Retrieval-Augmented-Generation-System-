@@ -8,8 +8,6 @@
 
 ---
 
-## 📸 Application Preview
-
 <div align="center">
 
 </div>
@@ -343,9 +341,6 @@ COHERE_API_KEY=your-cohere-key  # Optional
 ```bash
 python app.py
 ```
-
-The application will be available at: **http://localhost:8000**
-
 ---
 
 ## 📦 Deployment
@@ -830,39 +825,3 @@ copies or substantial portions of the Software.
 
 ---
 
-## 📞 Support
-
-<div align="center">
-
-### Need Help?
-
-[![Documentation](https://img.shields.io/badge/📖-Documentation-blue)](https://github.com/Aman-Kr09/minirag/wiki)
-[![Issues](https://img.shields.io/badge/🐛-Issues-red)](https://github.com/Aman-Kr09/minirag/issues)
-[![Discussions](https://img.shields.io/badge/💬-Discussions-green)](https://github.com/Aman-Kr09/minirag/discussions)
-
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/Aman-Kr09/minirag?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Aman-Kr09/minirag?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Aman-Kr09/minirag?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/Aman-Kr09/minirag)
-![GitHub language count](https://img.shields.io/github/languages/count/Aman-Kr09/minirag)
-![GitHub top language](https://img.shields.io/github/languages/top/Aman-Kr09/minirag)
-![GitHub last commit](https://img.shields.io/github/last-commit/Aman-Kr09/minirag)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Star this repository if you find it helpful!
-
-Made with ❤️ by [Aman Pandey]
-</div>
