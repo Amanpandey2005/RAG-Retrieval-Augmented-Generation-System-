@@ -15,7 +15,6 @@
 </div>
 
 <details>
-<summary>📱 More Screenshots</summary>
 
 | Main Interface | Query Interface |
 |:---:|:---:|
@@ -406,17 +405,6 @@ docker run -p 8000:8000 --env-file .env mini-rag-app
 The application will be available at `http://localhost:8000`
 
 </details>
-
-### Deploy to Other Platforms
-
-| Platform | Guide | Difficulty |
-|----------|-------|------------|
-| 🔷 **Heroku** | [Deploy Guide](https://devcenter.heroku.com/articles/getting-started-with-python) | Easy |
-| ☁️ **AWS EC2** | [Deploy Guide](https://docs.aws.amazon.com/ec2/) | Medium |
-| 🌐 **Google Cloud Run** | [Deploy Guide](https://cloud.google.com/run/docs) | Medium |
-| 🔵 **Azure App Service** | [Deploy Guide](https://docs.microsoft.com/azure/app-service/) | Medium |
-| ⚡ **Vercel** | Frontend only | Easy |
-
 ---
 
 ## 📖 API Documentation
@@ -424,9 +412,6 @@ The application will be available at `http://localhost:8000`
 ### Interactive API Docs
 
 Once the application is running, access the auto-generated API documentation:
-
-- **Swagger UI**: http://localhost:8000/docs
-- **ReDoc**: http://localhost:8000/redoc
 
 ### Endpoints
 
@@ -813,7 +798,7 @@ PORT=8080 python app.py
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**
 
 ```
 MIT License
@@ -854,8 +839,6 @@ copies or substantial portions of the Software.
 [![Documentation](https://img.shields.io/badge/📖-Documentation-blue)](https://github.com/Aman-Kr09/minirag/wiki)
 [![Issues](https://img.shields.io/badge/🐛-Issues-red)](https://github.com/Aman-Kr09/minirag/issues)
 [![Discussions](https://img.shields.io/badge/💬-Discussions-green)](https://github.com/Aman-Kr09/minirag/discussions)
-
-**Email**: 231220008@nitdelhi.ac.in
 
 </div>
 
