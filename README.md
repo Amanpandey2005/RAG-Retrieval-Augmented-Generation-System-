@@ -4,14 +4,6 @@
 
 ### Enterprise-Grade Retrieval-Augmented Generation System
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://minirag-o2l2.onrender.com/)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.9+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![React](https://img.shields.io/badge/react-18+-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![FastAPI](https://img.shields.io/badge/fastapi-0.100+-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-
-[Live Demo](https://minirag-o2l2.onrender.com/) • [Documentation](#documentation) • [Report Bug](https://github.com/Aman-Kr09/minirag/issues) • [Request Feature](https://github.com/Aman-Kr09/minirag/issues)
-
 </div>
 
 ---
@@ -20,8 +12,6 @@
 
 <div align="center">
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1DdMaAUb2wEop4p_2vRu9jKDgJLCN7HID)
-
 </div>
 
 <details>
@@ -29,8 +19,6 @@
 
 | Main Interface | Query Interface |
 |:---:|:---:|
-| ![Query View](https://drive.google.com/uc?export=view&id=1DdMaAUb2wEop4p_2vRu9jKDgJLCN7HID) | ![Main View](https://drive.google.com/uc?export=view&id=15f9unAbEudlzufgMr8LWfRfDFJzEH7Zp) |
-
 *Aura RAG*
 
 </details>
@@ -893,8 +881,5 @@ copies or substantial portions of the Software.
 
 ### ⭐ Star this repository if you find it helpful!
 
-Made with ❤️ by [Aman](https://github.com/Aman-Kr09)
-
-[⬆ Back to Top](#-mini-rag-application)
-
+Made with ❤️ by [Aman Pandey]
 </div>
